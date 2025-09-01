@@ -29,7 +29,7 @@ Your task is to:
   "k": 3
 }
 
-### Output
+Output
 
 {
   "coefficients": [
