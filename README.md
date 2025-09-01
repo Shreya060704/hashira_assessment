@@ -56,7 +56,7 @@ Input 2
   "k": 7
 }
 
-Output
+Output(truncated example)
 
 {
   "coefficients": [
